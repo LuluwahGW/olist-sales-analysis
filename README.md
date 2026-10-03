@@ -4,7 +4,7 @@ I analyzed 96K delivered orders from the Olist Brazilian E-Commerce dataset (201
 
 **Dashboard:** [https://datastudio.google.com/reporting/1553feb4-1019-4585-91a0-02f99d201d9d]
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](DashBoardPic.webp)
 
 ## What I found
 - Orders with 1-star reviews took about 21 days to arrive. 5-star orders took about 11 days.
